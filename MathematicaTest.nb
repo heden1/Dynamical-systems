@@ -1,0 +1,93 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2652,         85]
+NotebookOptionsPosition[      2088,         67]
+NotebookOutlinePosition[      2479,         83]
+CellTagsIndexPosition[      2436,         80]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", "\[IndentingNewLine]", 
+  RowBox[{"p1", "=", 
+   RowBox[{"StreamPlot", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"-", "x"}], "+", "y", "+", 
+       RowBox[{"y", "^", "2"}]}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"-", "x"}], "-", "y", "-", 
+       RowBox[{"x", "*", "y"}]}], "}"}]}], "]"}]}]}]], "Input",
+ CellChangeTimes->{{3.90852867954016*^9, 3.9085287410469227`*^9}, {
+  3.908528846633831*^9, 
+  3.908528922695662*^9}},ExpressionUUID->"7085aeab-8b14-495c-8554-\
+cf530b5ca24e"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "StreamPlot", "argrx", 
+   "\"\\!\\(\\*RowBox[{\\\"StreamPlot\\\"}]\\) called with \
+\\!\\(\\*RowBox[{\\\"2\\\"}]\\) arguments; \\!\\(\\*RowBox[{\\\"3\\\"}]\\) \
+arguments are expected.\"", 2, 3, 2, 31598408916310273870, "Local"},
+  "MessageTemplate"]], "Message", "MSG",
+ CellChangeTimes->{3.908528770821406*^9, 3.908528887245563*^9},
+ CellLabel->
+  "During evaluation of \
+In[3]:=",ExpressionUUID->"174f65a6-bd82-43c9-875b-4265e3be9c39"],
+
+Cell[BoxData[
+ RowBox[{"StreamPlot", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"-", "x"}], "+", "y", "+", 
+     SuperscriptBox["y", "2"]}], "}"}], ",", 
+   RowBox[{
+    RowBox[{"-", "x"}], "-", "y", "-", 
+    RowBox[{"x", " ", "y"}]}]}], "]"}]], "Output",
+ CellChangeTimes->{3.908528714551659*^9, 3.908528770833591*^9, 
+  3.908528887250967*^9},
+ CellLabel->"Out[3]=",ExpressionUUID->"d5dd02c7-9417-4b46-818f-0f801f4a59f6"]
+}, Open  ]]
+},
+WindowSize->{808, 676},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+FrontEndVersion->"13.3 for Mac OS X ARM (64-bit) (July 24, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"0c35fc97-88bd-4f5f-9c73-c4f7f769c4dd"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 576, 16, 73, "Input",ExpressionUUID->"7085aeab-8b14-495c-8554-cf530b5ca24e"],
+Cell[1159, 40, 470, 10, 28, "Message",ExpressionUUID->"174f65a6-bd82-43c9-875b-4265e3be9c39"],
+Cell[1632, 52, 440, 12, 37, "Output",ExpressionUUID->"d5dd02c7-9417-4b46-818f-0f801f4a59f6"]
+}, Open  ]]
+}
+]
+*)
+
