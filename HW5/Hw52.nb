@@ -1,0 +1,49 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1059,         39]
+NotebookOptionsPosition[       713,         25]
+NotebookOutlinePosition[      1109,         41]
+CellTagsIndexPosition[      1066,         38]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["5.2 a)", "Title",
+ CellChangeTimes->{{3.912041488364182*^9, 
+  3.9120415014610786`*^9}},ExpressionUUID->"a7a62d60-22ae-4b10-9861-\
+e7faaa31f128"]
+},
+WindowSize->{Full, Full},
+WindowMargins->{{316, Automatic}, {Automatic, 50}},
+FrontEndVersion->"13.3 for Mac OS X ARM (64-bit) (July 24, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"505ef98a-3def-4cd0-92a0-f796cdc39c26"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 151, 3, 98, "Title",ExpressionUUID->"a7a62d60-22ae-4b10-9861-e7faaa31f128"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
